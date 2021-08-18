@@ -69,7 +69,7 @@
             android:background="@drawable/bg_ripple"
             android:padding="4dp"
             android:src="@mipmap/ic_func"
-            android:tint="#333333" />
+            app:tint="#333333" />
 
         <FrameLayout
             android:id="@+id/fl_current"
@@ -88,7 +88,7 @@
                 android:contentDescription="@string/app_name"
                 android:scaleType="centerInside"
                 android:src="@mipmap/ic_calendar"
-                android:tint="#000000" />
+                app:tint="#000000" />
 
             <TextView
                 android:id="@+id/tv_current_day"
@@ -114,7 +114,7 @@
             android:padding="6dp"
             android:scaleType="centerInside"
             android:src="@mipmap/ic_more"
-            android:tint="#333333" />
+            app:tint="#333333" />
 
 
     </RelativeLayout>

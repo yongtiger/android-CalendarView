@@ -71,7 +71,7 @@
             android:padding="7dp"
             android:scaleType="centerInside"
             android:src="@mipmap/ic_clear"
-            android:tint="#333333" />
+            app:tint="#333333" />
 
         <FrameLayout
             android:id="@+id/fl_current"
@@ -89,7 +89,7 @@
                 android:contentDescription="@string/app_name"
                 android:scaleType="centerInside"
                 android:src="@mipmap/ic_calendar"
-                android:tint="#000000" />
+                app:tint="#000000" />
 
             <TextView
                 android:id="@+id/tv_current_day"

@@ -38,7 +38,7 @@
             android:padding="7dp"
             android:scaleType="centerInside"
             android:src="@mipmap/ic_clear"
-            android:tint="#333333" />
+            app:tint="#333333" />
 
         <ImageView
             android:id="@+id/iv_reduce"
@@ -50,7 +50,7 @@
             android:padding="6dp"
             android:scaleType="centerInside"
             android:src="@mipmap/ic_reduce"
-            android:tint="#333333" />
+            app:tint="#333333" />
 
         <ImageView
             android:id="@+id/iv_increase"
@@ -60,7 +60,7 @@
             android:background="@drawable/bg_ripple"
             android:padding="8dp"
             android:src="@mipmap/ic_increase"
-            android:tint="#333333"
+            app:tint="#333333"
             tools:ignore="ContentDescription" />
 
     </LinearLayout>
