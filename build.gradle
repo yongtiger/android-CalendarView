@@ -9,8 +9,8 @@ buildscript {
         ]
 
         release = [
-                versionName: "0.1.4",   ///v0.1.4#proguard#consumer-rules.pro
-                versionCode: 104
+                versionName: "0.1.5",   ///v0.1.5#proguard#consumer-rules.pro
+                versionCode: 105
         ]
     }
 
