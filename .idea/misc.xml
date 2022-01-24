@@ -6,6 +6,9 @@
         <entry key="..\:/AndroidStudioProjects/_module/android-CalendarView/app/src/main/res/drawable/bg_material.xml" value="0.3697916666666667" />
         <entry key="..\:/AndroidStudioProjects/_module/android-CalendarView/app/src/main/res/layout/activity_progress.xml" value="0.3536458333333333" />
         <entry key="..\:/AndroidStudioProjects/_module/android-CalendarView/app/src/main/res/layout/activity_view_pager.xml" value="0.19635416666666666" />
+        <entry key="..\:/AndroidStudioProjects/_module/android-CalendarView/library/src/main/res/drawable/cv_bg_material.xml" value="0.3697916666666667" />
+        <entry key="..\:/AndroidStudioProjects/_module/android-CalendarView/library/src/main/res/layout/cv_layout_calendar_view.xml" value="0.3536458333333333" />
+        <entry key="..\:/AndroidStudioProjects/_module/android-CalendarView/library/src/main/res/layout/cv_week_bar.xml" value="0.3536458333333333" />
       </map>
     </option>
   </component>
