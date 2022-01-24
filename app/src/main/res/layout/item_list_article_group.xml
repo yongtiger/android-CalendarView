@@ -11,9 +11,9 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center_vertical"
-        android:paddingLeft="16dp"
+        android:paddingStart="16dp"
         android:textSize="14sp"
         android:textColor="#555555"
-        android:paddingRight="16dp"
+        android:paddingEnd="16dp"
         tools:text="今日推荐" />
 </LinearLayout>

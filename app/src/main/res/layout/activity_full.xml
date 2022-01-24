@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
             android:gravity="center_vertical"
-            android:paddingLeft="16dp"
+            android:paddingStart="16dp"
             android:textColor="#000000"
             android:textSize="26sp"
             android:textStyle="bold" />
@@ -29,11 +29,11 @@
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:layout_toRightOf="@+id/tv_month_day"
+            android:layout_toEndOf="@+id/tv_month_day"
             android:orientation="vertical"
             android:paddingBottom="12dp"
-            android:paddingLeft="6dp"
-            android:paddingRight="6dp"
+            android:paddingStart="6dp"
+            android:paddingEnd="6dp"
             android:paddingTop="12dp"
             tools:ignore="RelativeOverlap">
 
@@ -62,9 +62,9 @@
             android:id="@+id/fl_current"
             android:layout_width="32dp"
             android:layout_height="32dp"
-            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
-            android:layout_marginRight="12dp"
+            android:layout_marginEnd="12dp"
             android:background="@drawable/bg_ripple">
 
             <ImageView
